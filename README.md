@@ -1,6 +1,9 @@
-# provider_test
+# provider example
 
-A new Flutter project.
+<!-- <img src="/assets/screen.jpg"> -->
+
+<p>Watch the Video on Youtube - <a href="https://youtu.be/6u4MLdrjecc" rel="nofollow">Youtube Video</a></p>
+<p>Also Don't Forget to Subscribe to My youtube Channel - <a href="https://www.youtube.com/channel/UCuArmx2gHQooKQ3oMLTbv2Q" rel="nofollow">Youtube Channel</a></p>
 
 ## Getting Started
 
@@ -14,3 +17,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
