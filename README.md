@@ -1,6 +1,6 @@
 # provider example
 
-<!-- <img src="/assets/screen.jpg"> -->
+ <img src="/assets/provider.png">
 
 <p>Watch the Video on Youtube - <a href="https://youtu.be/6u4MLdrjecc" rel="nofollow">Youtube Video</a></p>
 <p>Also Don't Forget to Subscribe to My youtube Channel - <a href="https://www.youtube.com/channel/UCuArmx2gHQooKQ3oMLTbv2Q" rel="nofollow">Youtube Channel</a></p>
