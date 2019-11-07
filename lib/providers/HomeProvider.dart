@@ -1,12 +1,11 @@
 import 'package:flutter/cupertino.dart';
 
-class HomeProvider with ChangeNotifier{
+class HomeProvider with ChangeNotifier {
+  int _counter = 1;
 
-  int _counter=1;
+  get counter => _counter;
 
-  get counter =>_counter;
-
-  void setCounter(){
+  void setCounter() {
     _counter++;
     notifyListeners();
   }
